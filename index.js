@@ -1,0 +1,1 @@
+window.location.href = "https://testpath9.github.io/testpath9/?test"
