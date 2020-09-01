@@ -1,1 +1,1 @@
-window.location.href = "https://testpath9.github.io/testpath9/?test"
+window.location.href = "https://testpath0.github.io/testpath0/?test"
